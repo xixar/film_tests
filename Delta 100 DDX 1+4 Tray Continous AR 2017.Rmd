@@ -1,5 +1,5 @@
 ---
-title: 'Film Test: Delta 100 4×5" DDX 1+4 20˚C Tray'
+title: 'Film Test: Arista 100 4×5" PMK 1+2+50 21˚C Tray'
 author: "Rafal Lukawiecki"
 date: "25 Oct 2017"
 output:
